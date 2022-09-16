@@ -1,9 +1,34 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA104" format="2">
-  <advance width="571"/>
-  <unicode hex="A104"/>
-  <outline>
-    <component base="uniA105"/>
-    <component base="yi_mark" xOffset="68"/>
-  </outline>
+	<unicode hex="A104"/>
+	<advance width="571"/>
+	<outline>
+		<component base="uniA105"/>
+		<component base="yi_mark" xOffset="68"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uniA105</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>yi_mark</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-16 07:29:41 +0000</string>
+		</dict>
+	</lib>
 </glyph>

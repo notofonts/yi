@@ -1,9 +1,34 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA03C" format="2">
-  <advance width="667"/>
-  <unicode hex="A03C"/>
-  <outline>
-    <component base="uniA03D"/>
-    <component base="yi_mark" xOffset="114"/>
-  </outline>
+	<unicode hex="A03C"/>
+	<advance width="667"/>
+	<outline>
+		<component base="uniA03D"/>
+		<component base="yi_mark" xOffset="114"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>uniA03D</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>yi_mark</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-16 07:29:41 +0000</string>
+		</dict>
+	</lib>
 </glyph>
